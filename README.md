@@ -24,7 +24,9 @@ A showcase of key projects and ehnacements developed throughout my Computer Scie
 ---
 
 ### ** Code Review** 
-**[View ScreenPal Code Review](https://go.screenpal.com/watch/cTQtYpnDuTP)**
+**[View ScreenPal Code Review](https://go.screenpal.com/watch/cTQtYpnDuTP)** 
+
+---
 
 
 
