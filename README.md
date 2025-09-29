@@ -19,7 +19,8 @@ A showcase of key projects and ehnacements developed throughout my Computer Scie
 ### ** Algorithms and Data Structures**  
 > *Interactive 2D breakout-style game enhanced with physic-based behavior, merging logic, and hit-based brick states.*
 
-### ** Databases**  
+### ** Databases** 
+
 > *Normalized SQL-based inventory system, enhanced with JOIN queriers and a trigger for logging customer email updates.*
 ---
 
