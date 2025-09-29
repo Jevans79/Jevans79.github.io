@@ -21,6 +21,7 @@ A showcase of key projects and ehnacements developed throughout my Computer Scie
 
 ### ** Databases** 
 > *Normalized SQL-based inventory system, enhanced with JOIN queriers and a trigger for logging customer email updates.*
+> 
 ---
 
 ### ** Code Review** 
