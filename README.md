@@ -16,15 +16,15 @@ A showcase of key projects and ehnacements developed throughout my Computer Scie
 ### Software Engineering and Design  
 > *Enhanced 3D OpenGL scenc featuring texture toggling, lighting configuration, and interactive camera control.*
 
-### ** Algorithms and Data Structures**  
+### Algorithms and Data Structures  
 > *Interactive 2D breakout-style game enhanced with physic-based behavior, merging logic, and hit-based brick states.*
 
-### ** Databases** 
+### Databases 
 > *Normalized SQL-based inventory system, enhanced with JOIN queriers and a trigger for logging customer email updates.*
  
 ---
 
-### ** Code Review** 
+### Code Review 
 **[View ScreenPal Code Review](https://go.screenpal.com/watch/cTQtYpnDuTP)** 
 
 ---
