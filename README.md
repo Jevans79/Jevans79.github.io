@@ -13,7 +13,7 @@ A showcase of key projects and ehnacements developed throughout my Computer Scie
 ---
 ## Project Artifacts & Enhancements  
 
-### ** Software Engineering and Design**  
+### Software Engineering and Design  
 > *Enhanced 3D OpenGL scenc featuring texture toggling, lighting configuration, and interactive camera control.*
 
 ### ** Algorithms and Data Structures**  
