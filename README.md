@@ -34,6 +34,7 @@ The selected artifact for this milestone is a 3D OpenGL cosmetic scene that was 
 	This artifact was selected for my ePortfolio because it demonstrates a broad range of software engineering and design skills, including 3D modeling, texture mapping, shader application, lighting configuration, and interactive camera control.  This project reflects my ability to use OpenGL and C++ to build a visually rich and interactive 3D environment that adheres to core design principles such as realism, modularity, and visual hierarchy. 
 	
 This artifact showcases my ability to: 
+
 •	Apply graphics programming techniques such as UV scaling and texture mapping to dynamically load and display surface materials. 
 
 •	Configure lighting systems using directional and point light sources to simulate realistic scene illumination through program shaders. 
