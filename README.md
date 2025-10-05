@@ -51,7 +51,8 @@ While there was difficulty with the toggle feature displaying visibly during run
 Enhancing this artifact provided a valuable opportunity to apply iterative development, code review, and debugging practices within a familiar but expanded codebase. While the original project demonstrated static rendering and navigation, the enhancement introduced a new layer of interactivity and runtime logic, deepening my understanding of how user input can dynamically influence scene behavior. 
 
 A key lesson I learned was the importance of planning enhancements that integrate cleanly into existing architecture.  I carefully reviewed the original object initialization, rendering functionality, and input handling system to determine the most efficient way to implement the texture logic without disrupting other features.  This reinforced my skills in modular design and scene management, as I structured the toggle feature using conditionals and flags that remained isolated from unrelated systems. Throughout the process, I encountered challenges in verifying rendering behavior, particularly when the texture toggle would not visibly update as expected.  Rather than rewriting core rendering logic, I focused on confirming that all toggle conditions and function calls executed correctly.  This process emphasized the importance of debugging, where success is measured by logic and execution.  Ultimately, the enhancement process sharpened my ability to reason through unfamiliar rendering behavior, isolate potential problem areas, and implement changes in a structured, testable manner.  These are essential skills for real-world software development. 
-** [Enhancement One Repository Link](https://github.com/JEvans79/EnhancementOne_Software_Design_and_Engineering) **
+
+**[Enhancement One Repository Link](https://github.com/JEvans79/EnhancementOne_Software_Design_and_Engineering)**
 
 --- 
 
