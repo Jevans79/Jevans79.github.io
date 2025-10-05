@@ -32,7 +32,9 @@ A showcase of key projects and ehnacements developed throughout my Computer Scie
 ### Enhancement One: Software Design and Engineering 
 The selected artifact for this milestone is a 3D OpenGL cosmetic scene that was developed during my CS-330 Computer Graphics and Visualization course in May 2025. The scene was designed to replicate a real-life cosmetic display which included 3D representation of items such as a perfume bottle, mascara tube, lotion container, and eyeshadow palette. The scene also included a vertical backdrop plane and a floor plane to complete the display environment. Each object was created using basic geometric primitives such as cones, cylinders, spheres, and boxes.  To enhance realism, loaded custom shader textures were applied to the objects and enhanced using a texture UV scale and shader material.  The scene used directional and point lights for realistic illumination and included full camera navigation using mouse and keyboard inputs to allow interactive exploration of the 3D environment. 
 	This artifact was selected for my ePortfolio because it demonstrates a broad range of software engineering and design skills, including 3D modeling, texture mapping, shader application, lighting configuration, and interactive camera control.  This project reflects my ability to use OpenGL and C++ to build a visually rich and interactive 3D environment that adheres to core design principles such as realism, modularity, and visual hierarchy. 
+	
 This artifact showcases my ability to: 
+
 •	Apply graphics programming techniques such as UV scaling and texture mapping to dynamically load and display surface materials.  
 •	Configure lighting systems using directional and point light sources to simulate realistic scene illumination through program shaders. 
 •	Implement real-time user input handling to enable camera control navigation following event-driven design. 
