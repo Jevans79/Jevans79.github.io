@@ -78,7 +78,7 @@ Throughout the enhancement process, I gained deeper insight into how small algor
 	I also experimented with different width reduction values and ultimately settled on 0.4f, which produced the clearest visual feedback and best gameplay balance.  This iterative process emphasized the importance of tuning and testing algorithms in real-world applications to achieve the desired outcome.  The experience reinforced my understanding of how data structures and conditional logic work together in real-time environments to create flexible and interactive programs. 
 	This enhancement taught me to think more critically about object states, reuse existing logic effectively, and improve gameplay without overcomplicating the codebase.  It also reaffirmed the value of small, well targeted enhancements in demonstrating core competencies in computer science.
 
-**[Enhancement One Repository Link](https://github.com/JEvans79/EnhancementTwo_Algorithms_and_Data_Structure)** 
+**[Enhancement Two Repository Link](https://github.com/JEvans79/EnhancementTwo_Algorithms_and_Data_Structure)** 
 
 
 
