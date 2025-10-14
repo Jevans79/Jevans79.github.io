@@ -8,8 +8,6 @@ Associate in Business Administration - Southeast Technical Institute
 
 ---
 ## Reflection on Coursework and Skill Development
-A showcase of key projects and ehnacements developed throughout my Computer Science degree program with a concentration in Project Management for STEM. I bring a multidisciplinary perspective that blends technical proficiency with leadership and analytical thinking. Drawing from my experience as a Senior Project Analyst, software tester, and current residential contracting business owner, I apply real-world insight into the design, development, and management of software solutions. 
-
 Completing my coursework in the Computer Science program at Southern New Hampshire University, and developing my ePortfolio, has helped me identify and showcase my technical and analytical skills while aligning them with my long-term professional goals.  Through hands-on projects and academic rigor, I have built a solid foundation in software engineering, databases, data structures and algorithms, mobile and web development, and security. 
 
 
