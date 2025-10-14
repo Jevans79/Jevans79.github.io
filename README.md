@@ -56,8 +56,7 @@ A key lesson I learned was the importance of planning enhancements that integrat
 
 --- 
 ### Enhancement Two: Algorithms and Data Structure 
-The selected artifact is a 2D breakout-style game created in C++ using OpenGL in Visual Studio.  It was originally developed during my CS-330 Computer Graphics and Visualization course in May 2025. The game includes interactive elements such as a player-controlled paddle, balls that bounce with physics-based logic, and both destructible and reflective bricks.  Each destructible brick was initially designed to darken and crack in color with each hit of the ball and disappear after three hits. This version of the project was created during an earlier module and served as a foundation for implementing data structure logic (vectors, objects) and algorithms (collision detection, velocity adjustment, hit tracking). 
-
+The selected artifact is a 2D breakout-style game created in C++ using OpenGL in Visual Studio.  It was originally developed during my CS-330 Computer Graphics and Visualization course in May 2025. The game includes interactive elements such as a player-controlled paddle, balls that bounce with physics-based logic, and both destructible and reflective bricks.  Each destructible brick was initially designed to darken and crack in color with each hit of the ball and disappear after three hits. This version of the project was created during an earlier module and served as a foundation for implementing data structure logic (vectors, objects) and algorithms (collision detection, velocity adjustment, hit tracking).
 	This artifact was selected for my ePortfolio because it showcases my understanding and application of key computer science concepts in algorithms and data structures, including: 
 	
 •	Dynamic memory management and use of the C++ Standard Template Library, specifically std::vector, to store and update dynamic collection of circle and brick objects in real time.
