@@ -76,7 +76,10 @@ There are no changes needed to the outcome coverage plans made in Module One.  T
 
 Throughout the enhancement process, I gained deeper insight into how small algorithmic changes can significantly impact program behavior and user experience.  Implementing a shrinking mechanic required more than simply modifying visual output, it necessitated understanding how changes to object dimensions would affect collision detection, rendering accuracy, and game logic consistency.  A key challenge I encountered was ensuring that the shrinking brick still properly interacted with the ball after each hit.  Since the width of the brick was decreasing, the bounding box for collision detection had to be recalculated every frame to avoid false positives or missed collisions.  Debugging this required careful observation and incremental testing to ensure both visual and logical alignment between game objects. 
 	I also experimented with different width reduction values and ultimately settled on 0.4f, which produced the clearest visual feedback and best gameplay balance.  This iterative process emphasized the importance of tuning and testing algorithms in real-world applications to achieve the desired outcome.  The experience reinforced my understanding of how data structures and conditional logic work together in real-time environments to create flexible and interactive programs. 
-	This enhancement taught me to think more critically about object states, reuse existing logic effectively, and improve gameplay without overcomplicating the codebase.  It also reaffirmed the value of small, well targeted enhancements in demonstrating core competencies in computer science.  	
+	This enhancement taught me to think more critically about object states, reuse existing logic effectively, and improve gameplay without overcomplicating the codebase.  It also reaffirmed the value of small, well targeted enhancements in demonstrating core competencies in computer science.
+
+**[Enhancement One Repository Link](https://github.com/JEvans79/EnhancementTwo_Algorithms_and_Data_Structure)** 
+
 
 
 
