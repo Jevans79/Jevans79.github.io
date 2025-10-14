@@ -60,6 +60,7 @@ The selected artifact is a 2D breakout-style game created in C++ using OpenGL in
 	This artifact was selected for my ePortfolio because it showcases my understanding and application of key computer science concepts in algorithms and data structures, including: 
 	
 •	Dynamic memory management and use of the C++ Standard Template Library, specifically std::vector, to store and update dynamic collection of circle and brick objects in real time. 
+
 •	Object-oriented programming (OOP) principles to encapsulate game object attributes (e.g., position, size, color, type, and hit count) and behaviors within reusable class structures. 
 •	Collision detection algorithms implemented using axis-aligned bounding box techniques, to determine when a circle (ball) intersects with a rectangular brick.
 •	State-based logic to track and update brick durability across multiple hits by incrementing a counter and adjusting object properties conditionally by color and width.
