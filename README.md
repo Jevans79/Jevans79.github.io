@@ -7,11 +7,27 @@ Concentration: Project Management for STEM
 Associate in Business Administration - Southeast Technical Institute  
 
 ---
-## About this Portfolio
+## Reflection on Coursework and Skill Development
 A showcase of key projects and ehnacements developed throughout my Computer Science degree program with a concentration in Project Management for STEM. I bring a multidisciplinary perspective that blends technical proficiency with leadership and analytical thinking. Drawing from my experience as a Senior Project Analyst, software tester, and current residential contracting business owner, I apply real-world insight into the design, development, and management of software solutions. 
 
+Completing my coursework in the Computer Science program at Southern New Hampshire University, and developing my ePortfolio, has helped me identify and showcase my technical and analytical skills while aligning them with my long-term professional goals.  Through hands-on projects and academic rigor, I have built a solid foundation in software engineering, databases, data structures and algorithms, mobile and web development, and security. 
+
+
+One of my key strengths is collaborating within team environments and clearly communicating with stakeholders.  These are skills I honed both in the classroom and through my professional background as a senior project analyst in banking.  These experiences have given me a unique perspective on translating technical concepts into actionable insights for business users.  For example, in CS 330: Computer Graphics and Visualization, I developed a fully navigable 3D OpenGL scene applying lighting models, camera interaction, and transformation hierarchies, which required attention to design, realism, and iterative testing, skill that mirror real-world project development cycles. 
+The program enhanced my skills in software development and testing.  In CS 320: Software Testing, Automation, and QA, I applied industry standard testing frameworks to evaluate software reliability, which complemented my earlier experience in software quality assurance.  Likewise, in CS 305: Software Security, I built awareness of secure coding practices and threat modeling. 
+
+
+My database design and SQL knowledge grew significantly through DAD 220: Introduction to Structured Database Environments, where I designed a normalized inventory tracking system and recently enhanced it for my capstone by implementing an SQL trigger to log sensitive data changes, an important industry practice. 
+Additionally, through CS 360: Mobile Architecture and Programming, I developed an Android weight-tracking app using Java in Android Studio.  This project incorporated SMS permission handling, UI development, CRUD operations, and local database management.  It reflected my ability to work with platform-specific tools and integrate multiple technologies. 
+
+
+In CS 465: Full Stack Development I, I built a travel planning web application using the MEAN stack (MongoDB, Express, Angular, and Node.js.). This project required designing a secure and responsive user interface, implementing RESTful APIs, and managing asynchronous data flows between the client and server.  It strengthened my understanding of full stack architecture and prepared me to work on end-to-end web applications.
+These courses and experiences have shaped my professional goal of transitioning into project management within the computer science field.  My concentration in Project Management for STEM, which included QSO 340, QSO 355, and QSO 440, prepared me to lead technical teams, estimate project scope, and manage resources efficiently using modern project management methodologies. 
+
+Altogether, this program has strengthened both my technical and professional competencies.  It has prepared me to pursue a role where I can guide development teams while contributing meaningfully to business outcomes. 
+
 ---
-## Project Artifacts & Enhancements  
+## Portfolio Introduction and Artifact Summary  
 
 ### Software Engineering and Design  
 > *Enhanced 3D OpenGL scenc featuring texture toggling, lighting configuration, and interactive camera control.*
