@@ -96,6 +96,8 @@ At this time, I do not have any changes to my original outcome coverage plan, as
 	Enhancing this artifact provided valuable insight into real-world database challenges such as enforcing relational integrity, writing multi-step insert statements, and implementing triggers that respond to data events.  One of the primary challenges I faced was working with foreign key constraints, especially ensuring that the CustomerID used in the AddressChangeLog existed in the Customers table.  This required careful sequencing of test data and awareness of referential integrity rules.  Additionally, testing the trigger required me to structure an UPDATE statement that would successfully invoke the logging behavior without causing syntax or constraint violations.  Another syntax-related challenge occurred in early attempts, incorrectly formatting the INSERT statement led to SQL errors, requiring troubleshooting and debugging withing Codio.  Overcoming these obstacles reinforced the importance of precision and testing in database development. 
 	Ultimately, this enhancement deepened my understanding of databases that can be designed not only to store data but also track and safeguard changes. This is essential in real-world applications where security, compliance, and traceability are critical. 
 
+**[Enhancement Three Repository Link](https://github.com/JEvans79/EnhancementThree_Databases)**
+
 
 
 
