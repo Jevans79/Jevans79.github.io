@@ -1,7 +1,7 @@
 # **Welcome to my ePortfolio**
 
 ## **Johnna Evans**
-**Former Senior Project Analyst** | **Former Software Tester** | **Residential Contracting Business Owner**  
+**Residential Contracting Business Owner** | **Former Senior Project Analyst** | **Former Software Tester**  
 Bachelor of Science in Computer Science - Southern New Hampshire University  
 Concentration: Project Management for STEM  
 Associate in Business Administration - Southeast Technical Institute  
