@@ -31,7 +31,7 @@ Altogether, this program has strengthened both my technical and professional com
 > *This artifact is a 3D OpenGL scene developed in Visual Studio using C++. It includes realistic object modeling, lighting, texture application, and camera controls.  It demonstrates the application of modular code design principles and emphasizes user interaction through keyboard and mouse input handling. It showcases a structured approach to rendering and managing 3D graphics in a software engineering context.*
 
 ### Algorithms and Data Structures  
-> *Interactive 2D breakout-style game enhanced with physic-based behavior, merging logic, and hit-based brick states.*
+> *This artifact is an interactive 2D breakout-style game that uses OpenGL and C++. It includes physics-based ball behavior, collision detection, brick merging logic, and hit-based state transitions for destructible bricks. The artifact highlights the use of algorithmic logic, object-oriented programming, and efficient data structures to control gameplay mechanics and enhance user experience.*
 
 ### Databases 
 > *Normalized SQL-based inventory system, enhanced with JOIN queriers and a trigger for logging customer email updates.*
