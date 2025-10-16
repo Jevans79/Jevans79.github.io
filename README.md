@@ -28,7 +28,7 @@ Altogether, this program has strengthened both my technical and professional com
 ## Portfolio Introduction and Artifact Summary  
 
 ### Software Engineering and Design  
-> *This artifact is a 3D OpenGL scene developed in Visual Studio. It includes realistic object modeling, lighting, texture application, and camera interaction.  It demonstrates my understanding of modular code design and user interaction.*
+> *This artifact is a 3D OpenGL scene developed in Visual Studio using C++. It includes realistic object modeling, lighting, texture application, and camera controls.  It demonstrates the application of modular code design principles and emphasizes user interaction through keyboard and mouse input handling. It showcases a structured approach to rendering and managing 3D graphics in a software engineering context.*
 
 ### Algorithms and Data Structures  
 > *Interactive 2D breakout-style game enhanced with physic-based behavior, merging logic, and hit-based brick states.*
