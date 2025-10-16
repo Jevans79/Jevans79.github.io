@@ -34,7 +34,7 @@ Altogether, this program has strengthened both my technical and professional com
 > *This artifact is an interactive 2D breakout-style game that uses OpenGL and C++. It includes physics-based ball behavior, collision detection, brick merging logic, and hit-based state transitions for destructible bricks. The artifact highlights the use of algorithmic logic, object-oriented programming, and efficient data structures to control gameplay mechanics and enhance user experience.*
 
 ### Databases 
-> *This artifact is a normalized SQL-based inventory system implemented in MySQL. It features multiple related tables with enforced foreign keys and was enhanced by applying JOIN queries and creating a trigger log customer address updates in a separate logging table. This artifact demonstrates a practical understanding of relational database design, normalization (3NF), and the use of SQL for data integrity and audit tracking.*
+> *This artifact is a normalized SQL-based inventory system implemented in MySQL. It features multiple related tables with enforced foreign keys and was enhanced by applying JOIN queries and creating a trigger to log customer address updates in a separate logging table. This artifact demonstrates a practical understanding of relational database design, normalization (3NF), and the use of SQL for data integrity and audit tracking.*
  
 ---
 
